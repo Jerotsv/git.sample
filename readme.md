@@ -2,7 +2,7 @@
 
 Esto es un ejemplo del uso de Git
 
-Estafdos de un fichero
+Estados de un fichero
 
  - untracked (nuevo)
  - modified 
