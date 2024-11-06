@@ -11,6 +11,6 @@ Estados de un fichero
 
  Areas de un repositorio
 
- - workarea
+ - work-area
  - stage / index area
  - repositorio
